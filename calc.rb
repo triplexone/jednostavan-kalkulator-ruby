@@ -48,10 +48,3 @@ elsif operator == "%"
 else
   puts "Nisi unio operator"
 end
-
-
-# puts "Množenje:\n#{mnozenje(broj1, broj2)}"
-# puts "Dijeljenje:\n#{dijeljenje(broj1, broj2)}"
-# puts "Zbrajanje:\n#{zbrajanje(broj1, broj2)}"
-# puts "Oduzimanje:\n#{oduzimanje(broj1, broj2)}"
-# puts "Ostatak dijeljenja:\n#{ostatak(broj1, broj2)}"
